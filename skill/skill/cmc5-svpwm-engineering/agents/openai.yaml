@@ -1,0 +1,6 @@
+interface:
+  display_name: "CMC5 SVPWM Engineering"
+  short_description: "Verify and package paired Vivado SVPWM projects"
+  default_prompt: "Use $cmc5-svpwm-engineering to audit my normal and chaos SVPWM Vivado projects, verify their BIT files, compare implementation reports, and produce a reproducible engineering package."
+policy:
+  allow_implicit_invocation: true

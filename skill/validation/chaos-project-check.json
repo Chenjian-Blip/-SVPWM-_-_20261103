@@ -1,0 +1,17 @@
+{
+  "project_root": "D:\\CHATGPTxiangmu\\xiangmu5\\混沌SVPWM诊断与容错系统_完整工程_20261103\\混沌版svpwm代码文件",
+  "passed": true,
+  "failures": [],
+  "counts": {
+    "xpr": 1,
+    "rtl": 8,
+    "xdc": 2,
+    "bit": 2,
+    "sim": 1,
+    "timing_report": 2,
+    "utilization_report": 4,
+    "drc_report": 4
+  },
+  "selected_bit": "D:\\CHATGPTxiangmu\\xiangmu5\\混沌SVPWM诊断与容错系统_完整工程_20261103\\混沌版svpwm代码文件\\output\\CMC5_chaos_3Hz_8pct_stronger_pair_autostart.bit",
+  "selected_bit_sha256": "7A9666C37AEEEA88395DB599DA4D047E941CF0DAB52F3EEBC56D59D35114AE2D"
+}

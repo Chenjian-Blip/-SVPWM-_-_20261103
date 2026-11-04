@@ -1,0 +1,98 @@
+{
+  "format": "sha256-manifest-v1",
+  "project_root_name": "cmc5-svpwm-engineering-skill-package",
+  "generated_utc": "2026-11-03T12:59:54.5093712Z",
+  "file_count": 18,
+  "files": [
+    {
+      "path": "LICENSE",
+      "bytes": 1069,
+      "sha256": "B7539AB2D69997BB2D1D21CE11536728E1C75FFA0CC9489CE5E0C7181E3217FE"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1422,
+      "sha256": "3BFFDF109B15B386BDA0EFB0F2CF0E99FE7B6A8E52820D16BEE97E618E8B2B3B"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/agents/openai.yaml",
+      "bytes": 375,
+      "sha256": "8494D8E839E60F48E2A4E7C78B06CD6DE73E2E68C54EA309CE1C0EDCB4037459"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/references/case-templates.md",
+      "bytes": 1647,
+      "sha256": "EFE489A0B1A25F9F3758E3A38206737991D3FC6CC983AE6F00617753FE74CC92"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/references/cmc5-case-study.md",
+      "bytes": 1710,
+      "sha256": "BAFC79D38376DF968506EC006E0205871DA589B41658BBE551247479C1DE709F"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/references/hardware-safety.md",
+      "bytes": 1589,
+      "sha256": "796D5FAEADA0A0D66B104B4618855F3D0A4283F419744F4BE3132D600BFEC156"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/references/prompt-workflows.md",
+      "bytes": 2745,
+      "sha256": "3FB1B2038C6BC5775C630D7B65702D2B2332679C8F0EB4D7000780E6AC93D801"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/references/release-checklist.md",
+      "bytes": 1440,
+      "sha256": "585086081FF6574B01999C10411EB29F25EFB84F52AB6EE5E5FAC0005FB27EA2"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/references/troubleshooting.md",
+      "bytes": 3765,
+      "sha256": "B1C1493B948C217169AC3708D8BB67CB34548E1D67EE8053A2B08AB9D548A05B"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/scripts/compare-vivado-reports.ps1",
+      "bytes": 3330,
+      "sha256": "06C16F8F435775F11F737AD2CBD270D938F8E87547281BDC42DD1E9CB2789CB5"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/scripts/make-manifest.ps1",
+      "bytes": 1383,
+      "sha256": "E0731F351DF5F5C8D5653DF9528F4BE3AECEBBF869A4611DF5CD925AC7EED222"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/scripts/verify-project.ps1",
+      "bytes": 2975,
+      "sha256": "8F5B9320A7965F760C36A5091B926E7965648764B9F993A2CC486CF96AAADEC0"
+    },
+    {
+      "path": "skill/cmc5-svpwm-engineering/SKILL.md",
+      "bytes": 4789,
+      "sha256": "EFEBA4443E5B6699491945B2A14FD4880DCFC1DE23EF8AA48BDE8EA5140D19D6"
+    },
+    {
+      "path": "skill/README.md",
+      "bytes": 3094,
+      "sha256": "C28BC807D91352D0D1E335A57104F6895A8F336AE9B600AB9D3880D21C720F1C"
+    },
+    {
+      "path": "validation/baseline-project-check.json",
+      "bytes": 641,
+      "sha256": "70C0E262C32372AED97CF1D71DB1B2B559A18ACD330F3073BA6ACC7282796DAB"
+    },
+    {
+      "path": "validation/chaos-project-check.json",
+      "bytes": 636,
+      "sha256": "F7EB45647542548EF2E2FFF7DCE7EF42F365DE0FAB5D61C60461B87566FD82C3"
+    },
+    {
+      "path": "validation/README.md",
+      "bytes": 1152,
+      "sha256": "5FCC8FB31D8155B5F68E51ACA070B0BB2BB26BA211073AEF6AF328A15AA553A2"
+    },
+    {
+      "path": "validation/vivado-comparison.md",
+      "bytes": 347,
+      "sha256": "6843BC6D38312BD5DF5A805FB9C1217785EA7C7312B8BE00E5F548006D233617"
+    }
+  ]
+}
